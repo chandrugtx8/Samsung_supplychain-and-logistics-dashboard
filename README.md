@@ -164,8 +164,8 @@ Key metrics include:
 
 ## Screenshots
 
-Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/Inventory%20page.png)
-Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/execuitve%20page.png)
-Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/supplier%20page.png)
-Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/Production%20page.png)
-Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/shipment%20page.png)
+Inventory: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/Inventory%20page.png)
+Executive page: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/execuitve%20page.png)
+Supplier page: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/supplier%20page.png)
+Production page: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/Production%20page.png)
+Shipment page: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/shipment%20page.png)
