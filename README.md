@@ -160,3 +160,12 @@ Key metrics include:
 - KPI Development
 - Data Visualization
 - Business Analysis
+
+
+## Screenshots
+
+Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/Inventory%20page.png)
+Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/execuitve%20page.png)
+Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/supplier%20page.png)
+Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/Production%20page.png)
+Example: ![Dashboard Preview](https://github.com/chandrugtx8/Samsung_supplychain-and-logistics-dashboard/blob/main/shipment%20page.png)
